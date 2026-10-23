@@ -42,6 +42,56 @@ const services = [
     desc: 'Automate repetitive workflows, integrate large language models into your products, and deploy intelligent agents that save your team hours every single day.',
     points: ['Workflow automation (n8n, Zapier)','LLM integration (GPT-4, Claude)','Custom AI agent development','Document processing & extraction','Chatbot & virtual assistant builds'],
   },
+  {
+    icon: '👥', name: 'CRM (Customer Relationship Management)',
+    desc: 'Customer relationship management solutions to manage customer data, leads, sales pipelines, interactions, and customer relationships efficiently.',
+    points: ['Lead capture & pipeline management','Customer data & interaction history','Sales automation & deal tracking','Customer support & contact analytics','Custom CRM integrations & reporting'],
+  },
+  {
+    icon: '💳', name: 'POS (Point of Sale System)',
+    desc: 'Point of Sale solutions to manage billing, sales transactions, inventory, and business operations efficiently.',
+    points: ['Fast checkout & multi-tender billing','Real-time inventory & stock tracking','Sales reporting & operational analytics','Multi-location register management','Payment terminal & hardware integration'],
+  },
+  {
+    icon: '🛒', name: 'Ecommerce Marketing',
+    desc: 'End-to-end ecommerce growth strategies that drive qualified traffic, increase conversion rates, and maximise customer lifetime value.',
+    points: ['Multi-channel funnel optimisation','Product feed & marketplace management','Cart abandonment recovery','Conversion rate optimisation (CRO)','Retention & email automation'],
+  },
+  {
+    icon: '🔍', name: 'SEO (Search Engine Optimization)',
+    desc: 'Comprehensive organic search strategies to improve rankings, drive high-intent organic traffic, and secure long-term search visibility.',
+    points: ['Technical SEO audits & fixes','On-page content & keyword optimisation','Authoritative link building','Site speed & Core Web Vitals','Keyword research & competitor tracking'],
+  },
+  {
+    icon: '📱', name: 'SMM (Social Media Marketing)',
+    desc: 'Strategic social media campaigns across major platforms to build brand awareness, engage your audience, and drive customer acquisition.',
+    points: ['Content planning & creative production','Meta, LinkedIn & TikTok ads','Community management & engagement','Influencer & brand partnerships','Social listening & performance reporting'],
+  },
+  {
+    icon: '🎯', name: 'SEM (Search Engine Marketing)',
+    desc: 'Targeted paid search campaigns on Google and Bing that capture active buyers, minimise cost-per-click, and deliver measurable ROI.',
+    points: ['Google Ads search & display campaigns','Bidding strategy & budget optimisation','High-converting landing page alignment','Ad copy & creative A/B testing','Remarketing & audience targeting'],
+  },
+  {
+    icon: '📍', name: 'Local SEO',
+    desc: 'Hyper-local search engine optimisation to dominate local map packs, attract nearby customers, and drive foot traffic to your physical locations.',
+    points: ['Google Business Profile optimisation','Local citation building & audit','Geotargeted keyword strategy','Review generation & management','Localised landing page creation'],
+  },
+  {
+    icon: '✍', name: 'Content Marketing',
+    desc: 'Compelling, research-backed content strategies that position your brand as an industry authority, educate prospects, and fuel inbound leads.',
+    points: ['Content strategy & editorial calendars','Blog writing, whitepapers & case studies','SEO-optimised copy & storytelling','Lead magnets & downloadable guides','Distribution & content syndication'],
+  },
+  {
+    icon: '💻', name: 'WordPress Website Design',
+    desc: 'Custom, secure, and fast WordPress websites tailored to your brand identity, business workflows, and conversion goals.',
+    points: ['Custom theme design & development','WooCommerce store integration','Mobile responsiveness & speed tuning','Plugin architecture & security hardening','Easy-to-use CMS editor training'],
+  },
+  {
+    icon: '🛠', name: 'Website Maintenance & Support',
+    desc: 'Keep your website secure, updated, and running smoothly with reliable maintenance, performance monitoring, and ongoing technical support.',
+    points: ['Regular website updates and backups','Security monitoring and malware protection','Website speed and performance optimisation','Bug fixes and technical troubleshooting','Ongoing support and content updates'],
+  },
 ]
 
 const process = [
